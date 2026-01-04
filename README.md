@@ -42,3 +42,12 @@ You must sign the app with your Apple ID to run it.
 ## iOS / iPadOS Support
 This project also contains targets for iOS. To run on a device, connect your iPhone to your Mac, select the **iOS (App)** scheme in Xcode, and press Play.
 
+## Credits & Attribution
+
+This project is an unofficial Safari port of the **Pesticide - Advanced CSS Debugger** Chrome Extension.
+
+* **Original Concept:** [Pesticide](https://github.com/mrmrs/pesticide) by Paul Molluzzo (mrmrs).
+* **Advanced Version:** [Pesticide - Advanced CSS Debugger](https://chromewebstore.google.com/detail/pesticide-advanced-css-de/jeebpgmphhagpecfiophljpkhncoajcg) by Extension Rocks.
+
+All logic and CSS belong to the original authors; this repo merely repackages it as a Safari Web Extension.
+
